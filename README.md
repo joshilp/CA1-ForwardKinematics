@@ -1,12 +1,18 @@
 # Forward Kinematics
 
-Animating a walking skeletal rig using Quaternions to compute joint rotations. This program is written in C++.
+Animating a walking skeletal rig using Quaternions to compute joint rotations.
+
+## Languages Used
+
+* C++
+
+## Project Highlights
 
 To see the a project overview and to dive into the math, check out [Forward Kinematics](http://joshpatel.ca/forward_kinematics) at my portfolio [JoshPatel.ca](http://joshpatel.ca/).
 
 ## Getting Started
 
-To view the source code, do the following:
+To view the source code and test the program, do the following:
 
 * Download and install [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/).
 * Open the project solution:
@@ -25,6 +31,16 @@ To run the program without Visual Studio, run the exectuble:
 ```
 CA1-ForwardKinematics\ResultDemo\Forward Kinematics.exe
 ```
+
+If you see the following error:
+```
+Error MSB8036 The Windows SDK version 10.0.16299.0 was not found.
+```
+Go to:
+```
+Project->Properties->Configuration Properties->General->Windows SDK Version
+```
+Change the SDK version to your VS20\*\* SDK version.
 
 ## Demo
 
