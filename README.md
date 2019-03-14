@@ -2,7 +2,7 @@
 
 Animating a walking skeletal rig using Quaternions to compute joint rotations. This program is written in C++.
 
-To see the a project overview and to dive into the math, check out [Forward Kinematics](http://joshpatel.ca/forward_kinematics) at my portfolio [JoshPatel.ca](http://joshpatel.ca/forward_kinematics).
+To see the a project overview and to dive into the math, check out [Forward Kinematics](http://joshpatel.ca/forward_kinematics) at my portfolio [JoshPatel.ca](http://joshpatel.ca/).
 
 ## Getting Started
 
